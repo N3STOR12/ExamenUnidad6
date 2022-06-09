@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe.config
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.pdb
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.pdb
