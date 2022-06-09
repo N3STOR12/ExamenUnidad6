@@ -46,7 +46,7 @@ namespace ExamenUnidad6
             try
             {
                 //Creacion del archivo 
-                sw = new StreamWriter("Productos.txt");
+                sw = new StreamWriter("Productos.txt", true);
 
                 //Asignacion de datos 
                 Console.WriteLine("------- Inventario Amazon --------");
